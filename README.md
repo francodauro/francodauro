@@ -1,5 +1,5 @@
-# Franco D’Auro
-## Científico de Datos
+# Científico de Datos
+# Licenciado y Docente de Nivel Medio de Biología
 
 ### Datos Personales
 - **Fecha de Nacimiento:** 29/06/1990
