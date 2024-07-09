@@ -17,7 +17,7 @@
 - Implementación de algoritmos de Machine Learning
 
 ### Sobre Mí
-Tengo un gran interés en la aplicación de software en soluciones empresariales, la educación y la ciencia. Me apasiona el enfoque matemático en la resolución de problemas y tareas, lo que me ha llevado a explorar lenguajes de programación, gestión de bases de datos y herramientas de visualización de datos. Siempre me esfuerzo por integrarme en proyectos grupales que desafíen mi desempeño profesional.
+Como Data Scientist me apasiona la utilización del Machine Learning para descubrir patrones ocultos en grandes conjuntos de datos y así identificar oportunidades en el mercado y optimizar la eficiencia empresarial. Mi experiencia abarca el uso de lenguajes de programación como Python y R, la gestión de bases de datos relacionales con MySQL y la construcción de dashboards con Power BI y Tableau.  Disfruto y creo en el trabajo en equipo y GitHub es una de mis plataformas favoritas para colaborar en proyectos privados y comunitarios. Me encantaría la oportunidad de discutir en más detalle cómo mis habilidades y experiencia encajan con las necesidades de tu empresa.
 
 ### Formación Académica
 - **Científico de Datos** - Henry (2024)
